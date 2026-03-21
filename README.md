@@ -19,8 +19,11 @@ It helps stakeholders understand delay patterns, identify key disruption factors
 Power BI 📊
 
 DAX (Data Analysis Expressions) ⚙️
+
 Data Modeling 🧩
+
 Data Visualization 📈
+
 Exploratory Data Analysis (EDA) 🔍
 
 4. 📂 Data Source
